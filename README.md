@@ -3,7 +3,7 @@ It means if Internet access is enabled on boot it is possible to reach network o
 This module will prevent it blocking internet access on boot BEFORE AfWall started and applied.
 
 ## Requirements ##
-- AFWall (if not - the Internet access will be ALWAYS BLOCKED
+- AFWall (if not - the Internet access will be ALWAYS BLOCKED)
 
 
 ## ChangeLog ##
