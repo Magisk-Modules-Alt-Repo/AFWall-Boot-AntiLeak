@@ -1,0 +1,6 @@
+id=AFWallAntiLeak
+name=AFWall Boot AntiLeak
+version=v1.2
+versionCode=3
+author=GrayJackFixxxer
+description=A module to prevent internet access on boot BEFORE AfWall started and applied
