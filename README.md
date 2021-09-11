@@ -7,8 +7,9 @@ This module will prevent it blocking internet access on boot BEFORE AfWall start
 
 
 ## ChangeLog ##
+* v.1.0 First Release
 
-v.1.0 First Release
-v.1.1 Enforced WiFi and Mobile Data block
-v.1.2 Added delay before enabling Internet back and automatic deleting of afwallstart
+* v.1.1 Enforced WiFi and Mobile Data block
+
+* v.1.2 Added delay before enabling Internet back and automatic deleting of afwallstart
 
