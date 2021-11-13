@@ -8,4 +8,5 @@ MODDIR=${0%/*}
 
 # This script will be executed in post-fs-data mode
 rm -f /data/adb/system.d/afwallstart
+rm -f /data/adb/post-fs-data.d/afwallstart
 svc wifi disable && svc data disable

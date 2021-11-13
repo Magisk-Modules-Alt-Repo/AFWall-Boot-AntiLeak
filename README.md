@@ -13,3 +13,5 @@ This module will prevent it blocking internet access on boot BEFORE AfWall start
 
 * v.1.2 Added delay before enabling Internet back and automatic deleting of afwallstart
 
+* v.1.3 Now automatic deleting of afwallstart is performing both from /data/adb/post-fs-data.d/ and /data/adb/system.d/ - I was reported it is necessary for A11
+
