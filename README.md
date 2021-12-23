@@ -1,6 +1,6 @@
 Normally AFWall applies iptables rules when started.
 It means if Internet access is enabled on boot it is possible to reach network overcoming AFWall rules BEFORE it starts.
-This module will prevent it blocking internet access on boot BEFORE AfWall started and applied.
+This module will prevent it blocking internet access on boot BEFORE AFWall started and applied.
 
 ## Requirements ##
 - AFWall (if not - the Internet access will be ALWAYS BLOCKED)
